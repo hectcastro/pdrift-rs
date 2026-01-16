@@ -1,2 +1,2 @@
 [tools]
-rust = { version = "latest", profile = "default" }
+rust = { version = "latest", profile = "default", components = "clippy,rustfmt" }
