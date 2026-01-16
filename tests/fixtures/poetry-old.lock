@@ -1,0 +1,19 @@
+[[package]]
+name = "requests"
+version = "2.31.0"
+
+[[package]]
+name = "fastapi"
+version = "0.95.0"
+
+[[package]]
+name = "numpy"
+version = "1.26.0"
+
+[[package]]
+name = "urllib3"
+version = "2.0.0"
+
+[[package]]
+name = "django-cors-headers"
+version = "4.0.0"
